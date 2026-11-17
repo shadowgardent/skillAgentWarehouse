@@ -1,6 +1,10 @@
 # 🏠 Baan Builders Squad & Skill Agent Warehouse 🔨🏡
 > **Autonomous Fullstack Engineering Squad & 11 Enterprise Skills for Google Antigravity & AI Coding Agents**
 
+<p align="center">
+  <img src="./assets/baan_builders_squad_poster.jpg" alt="Baan Builders Squad Cinematic Poster" width="100%" />
+</p>
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Antigravity](https://img.shields.io/badge/Google-Antigravity-blue.svg)](https://github.com/google)
 [![Skills](https://img.shields.io/badge/Skills-11%20Installed-brightgreen.svg)](#-11-enterprise-skills-catalog)
